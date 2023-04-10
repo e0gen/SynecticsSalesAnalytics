@@ -11,6 +11,9 @@ The format of the records is
 * Standard deviation of earnings within a specific year.
 * Standard deviation of earnings for a range of years
 
+![01](https://user-images.githubusercontent.com/5530344/230882320-9d83d2ba-aed0-40d9-878a-c06d5daff0a0.png)
+![02](https://user-images.githubusercontent.com/5530344/230882316-fbba658a-fba6-407a-8f3a-c5e501c7afe8.png)
+![03](https://user-images.githubusercontent.com/5530344/230882313-35447238-57ed-4265-a2e5-f557a0c5aefc.png)
 ## Other Features:
 
 * [Spectre.Console](https://spectreconsole.net/) based command line interface for enhanced user experience
